@@ -3,7 +3,7 @@ using System.Web.Mvc;
 
 namespace adminlte
 {
-    public static class HMTLHelperExtensions
+    public static class HTMLHelperExtensions
     {
         public static string IsSelected(this HtmlHelper html, string controller = null, string action = null, string cssClass = null)
         {
