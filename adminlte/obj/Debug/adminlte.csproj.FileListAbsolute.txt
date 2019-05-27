@@ -1,0 +1,142 @@
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\adminlte.dll.config
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\adminlte.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\adminlte.pdb
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Antlr3.Runtime.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\EntityFramework.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\EntityFramework.SqlServer.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Google.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Web.Infrastructure.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Newtonsoft.Json.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Owin.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Helpers.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Mvc.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Optimization.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Razor.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.Deployment.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.Razor.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\WebGrease.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Helpers.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Mvc.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Optimization.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.Razor.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.Deployment.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\System.Web.WebPages.Razor.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Antlr3.Runtime.pdb
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Newtonsoft.Json.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\EntityFramework.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\EntityFramework.SqlServer.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Google.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AdminLTE-ASP-NET-MVC\adminlte\obj\Debug\adminlte.csprojAssemblyReference.cache
+D:\AdminLTE-ASP-NET-MVC\adminlte\obj\Debug\adminlte.csproj.CoreCompileInputs.cache
+D:\AdminLTE-ASP-NET-MVC\adminlte\obj\Debug\adminlte.csproj.CopyComplete
+D:\AdminLTE-ASP-NET-MVC\adminlte\obj\Debug\adminlte.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\obj\Debug\adminlte.pdb
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\csc.exe
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\System.Collections.Immutable.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\System.Reflection.Metadata.dll
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\vbc.exe
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\VBCSCompiler.exe
+D:\AdminLTE-ASP-NET-MVC\adminlte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\csc.exe
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\vbc.exe
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\adminlte.dll.config
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\adminlte.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\adminlte.pdb
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Antlr3.Runtime.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\EntityFramework.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Newtonsoft.Json.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Owin.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Helpers.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Mvc.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Optimization.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Razor.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\WebGrease.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Helpers.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Mvc.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Optimization.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.Razor.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Antlr3.Runtime.pdb
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Newtonsoft.Json.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\EntityFramework.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\obj\Debug\adminlte.csprojAssemblyReference.cache
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\obj\Debug\adminlte.csproj.CoreCompileInputs.cache
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\obj\Debug\adminlte.csproj.CopyComplete
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\obj\Debug\adminlte.dll
+C:\Users\Dhiren\Desktop\Source Codes\Theme Integration\adminlte\obj\Debug\adminlte.pdb
